@@ -1,0 +1,40 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.barra-nav{
+    background-color: #ba2d65;
+}
+.titulo-uno{
+    color: #ffffff;
+    font-weight: bold;
+}
+.trabajos{
+    background-color: #b0003a;
+    }
+    
+.letra-logo{
+    font-weight: bold;
+    font-size: 2.5rem;
+ }
+ .pie-pagina{
+     background-color: #b0003a;
+     padding: 5%;
+ }
+ .pie-pagina div{
+     color: #ffffff;
+     font-size: 2rem;
+     font-weight: bold;
+ }
+ .contacto{
+     padding: 10%;
+     margin-bottom: 5%;
+    }
+.titulo-dos{
+    font-weight: bold;
+      }
+.titulo-tres{
+    font-weight: bold;
+ }
+ .info-uno{
+margin-top: 20%;
+ }
