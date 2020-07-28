@@ -32,12 +32,14 @@ body{
  .contacto{
      padding: 10%;
      margin-bottom: 5%;
-    }
+         }
 .titulo-dos{
     font-weight: bold;
-      }
+    font-size: 2rem;
+        }
 .titulo-tres{
     font-weight: bold;
+    font-size: 2rem;
  }
  .info-uno{
 margin-top: 20%;
