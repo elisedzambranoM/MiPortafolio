@@ -1,6 +1,10 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+.foto-header{
+    background: url("./assets/background-header.jpg");
+    background-size: cover;
+}
 .barra-nav{
     background-color: #ba2d65;
 }
