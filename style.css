@@ -2,12 +2,13 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 .foto-header{
-    background: url("./assets/background-header.jpg");
+    background: url("./assets/background-header.webp");
     background-size: cover;
 }
 .barra-nav{
     background-color: #ba2d65;
 }
+
 .titulo-uno{
     color: #ffffff;
     font-weight: bold;
