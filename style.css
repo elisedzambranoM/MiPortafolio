@@ -7,9 +7,20 @@ body{
 .foto-header{
     background: url("./assets/background-header.webp");
     background-size: cover;
-}
+   }
 .barra-nav{
     background-color: #ba2d65;
+    margin-left: 14%;
+    margin-right: 14%;
+}
+@media only screen and (max-width: 448px) {
+ .barra-nav{
+     margin-left: 0%;
+     margin-right: 0%;
+ }
+.foto-header{
+    margin-top: 20%;
+}    
 }
 
 .titulo-uno{
