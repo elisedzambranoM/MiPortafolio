@@ -1,61 +1,73 @@
 html {
     scroll-behavior: smooth;
-  }
-body{
+}
+
+body {
     font-family: 'Montserrat', sans-serif;
 }
-.foto-header{
+
+.foto-header {
     background: url("./assets/background-header.webp");
     background-size: cover;
-   }
-.barra-nav{
+}
+
+.barra-nav {
     background-color: #ba2d65;
     margin-left: 14%;
     margin-right: 14%;
 }
+
 @media only screen and (max-width: 448px) {
- .barra-nav{
-     margin-left: 0%;
-     margin-right: 0%;
- }
-.foto-header{
-    margin-top: 20%;
-}    
+    .barra-nav {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+
+    .foto-header {
+        margin-top: 20%;
+    }
 }
 
-.titulo-uno{
+.titulo-uno {
     color: #ffffff;
     font-weight: bold;
 }
-.trabajos{
+
+.trabajos {
     background-color: #b0003a;
-    }
-    
-.letra-logo{
+}
+
+.letra-logo {
     font-weight: bold;
     font-size: 2.5rem;
- }
- .pie-pagina{
-     background-color: #b0003a;
-     padding: 5%;
- }
- .pie-pagina div{
-     color: #ffffff;
-     font-size: 2rem;
-     font-weight: bold;
- }
- .contacto{
-     padding: 10%;
-     margin-bottom: 5%;
-         }
-.titulo-dos{
+}
+
+.pie-pagina {
+    background-color: #b0003a;
+    padding: 5%;
+}
+
+.pie-pagina div {
+    color: #ffffff;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.contacto {
+    padding: 10%;
+    margin-bottom: 5%;
+}
+
+.titulo-dos {
     font-weight: bold;
     font-size: 2rem;
-        }
-.titulo-tres{
+}
+
+.titulo-tres {
     font-weight: bold;
     font-size: 2rem;
- }
- .info-uno{
-margin-top: 20%;
- }
+}
+
+.info-uno {
+    margin-top: 20%;
+}
